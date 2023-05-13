@@ -1,5 +1,5 @@
 # stable-diffusion-webui-mac
-Personal notes for running Stable Diffusion successfully with M1/M2 macs.
+Personal notes for running Stable Diffusion successfully with M1/M2 macs. Made this to help myself remember all the links!
 
 Useful threads:
 
@@ -18,3 +18,7 @@ Works for me if you just install directly inside virtualenv. I use `pyenv` so ca
 Worthy to look at if you can’t solve M1 / M2 issues with patches and code fixes, but changing configs is better since you don’t have to depend on third-party maintainer to release the patches. 
 
 - Offline M1/M2 releases - https://github.com/brkirch/stable-diffusion-webui/releases
+
+## Control Net
+
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/7784
