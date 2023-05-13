@@ -15,5 +15,6 @@ Works for me if you just install directly inside virtualenv. I use `pyenv` so ca
 
 ## Others
 
-Worthy to look at if can’t solve M1 / M2 issues, but changing configs are the easiest. 
-- [https://github.com/brkirch/stable-diffusion-webui/releases](Offline M1/M2 releases) - https://github.com/brkirch/stable-diffusion-webui/releases
+Worthy to look at if you can’t solve M1 / M2 issues with patches and code fixes, but changing configs is better since you don’t have to depend on third-party maintainer to release the patches. 
+
+- Offline M1/M2 releases - https://github.com/brkirch/stable-diffusion-webui/releases
