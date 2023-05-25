@@ -24,3 +24,7 @@ Worthy to look at if you can’t solve M1 / M2 issues with patches and code fixe
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/7784
 
 Great tutorial on YouTube: https://www.youtube.com/watch?v=dLM2Gz7GR44
+
+### Models
+
+Detailed description of all the models: https://github.com/lllyasviel/ControlNet-v1-1-nightly
